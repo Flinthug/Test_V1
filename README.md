@@ -6,3 +6,5 @@ A la base j'ai commencé la musique juste pour voir
 
 #test V3
 erg ca marche po 
+
+Lolo se charge de la version finale mec
