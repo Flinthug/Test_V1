@@ -8,3 +8,5 @@ A la base j'ai commencé la musique juste pour voir
 erg ca marche po 
 
 Lolo se charge de la version finale mec
+
+#Non mec tu n'as pas les droits sudo 
